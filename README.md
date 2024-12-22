@@ -29,7 +29,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 <sharp>Backend</sharp>
@@ -39,6 +39,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
+
 <sharp>AI</sharp>
 <br><br>
 <p align="left">
@@ -46,13 +47,7 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   </a>
 </p>
-<sharp>Tools</sharp>
-<br><br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,postman" />
-  </a>
-</p>
+
 
 <h4>Cloud Tools</h4>
 <p align="left">
