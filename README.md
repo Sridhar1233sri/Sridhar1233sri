@@ -45,10 +45,13 @@
   </a>
 </p>
 
-
 <h4>Cloud Tools</h4>
 <p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="100" height="100"/>
+  </a>
 </p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar1233sri&" alt="sridhar1233sri" /></p>
