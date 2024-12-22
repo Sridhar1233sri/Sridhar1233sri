@@ -42,6 +42,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="50" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="50" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="50" />
   </a>
 </p>
 
@@ -51,7 +54,5 @@
     <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="100" height="100"/>
   </a>
 </p>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar1233sri&" alt="sridhar1233sri" /></p>
