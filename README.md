@@ -25,28 +25,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Frontend
+<sharp>Frontend</sharp>
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
   </a>
 </p>
-- Backend
+<sharp>Backend</sharp>
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
-- AI/ML
+<sharp>AI</sharp>
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   </a>
 </p>
-- Tools
+<sharp>Tools</sharp>
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<h4>Cloud Tools:</h4>
+<h4>Cloud Tools</h4>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
