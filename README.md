@@ -26,14 +26,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <sharp>Frontend</sharp>
-<br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 <sharp>Backend</sharp>
-<br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -41,7 +39,6 @@
 </p>
 
 <sharp>AI</sharp>
-<br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
