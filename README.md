@@ -22,21 +22,19 @@
 <a href="https://linkedin.com/in/sridhar-s-044395259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar-s-044395259" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sridhar__s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sridhar__s" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">💻 Tech Stack</h3>
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend" />
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
-    <!-- AI -->
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Frameworks" />
-    <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="50" alt="AI Icon" />
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="50" alt="AI Icon 3" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" />
+    <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,java" alt="Python, Selenium, Scikit-learn, Java" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
-</p>
+</div>
+
+
 
 <h4 align="left">☁️ Cloud Tools</h4>
 <p align="left">
@@ -44,6 +42,5 @@
     <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="100" height="100"/>
   </a>
 </p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar1233sri&" alt="sridhar1233sri" /></p>
