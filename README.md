@@ -2,9 +2,8 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi there, I'm Sridhar! 👋</h2>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1MzM3NjYsIm5iZiI6MTczNTUzMzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDA0Mzc0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViNTFhMzUyMTA2Mjk3Y2MzNTEyMmQ0Zjk5NTA2OTJkNGEzMGJjYTc3NTBkMGZjOWUyYmE2NGYyMDFjMzQ4ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7msRByPRVrkG3S6spUCdm_Q7hEFfXdN0PY1kJYE7hcY" alt="AI Animation Greeting GIF" width="300" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc3ODU4NzIsIm5iZiI6MTczNzc4NTU3MiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI1VDA2MTI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwY2ZiMTlmZDM2ZDY4YmMyMDg5MzZkMTY0NjdiMDA2MDljOGM4NzdmNTI2NzdkNDJjYWFjMDA4YjJhYzc2OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VzabWbqZqRNbdV9GX1935ArxAxkZmRTe_QPe_VXRbYE" alt="AI Animation Greeting GIF" width="300" />
 </div>
-
 
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;"><strong> 🤖 AI Developer | Innovating Algorithms and Models 💡💻</strong></h2>
 
@@ -17,6 +16,7 @@
 - 💬 Ask me about **Python, Gen AI, LLM, Flask, JavaScript**
 
 - 📫 How to reach me: **sridhars.22aid@kongu.edu**
+
 <br>
 <h2 align="left" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Connect with me:</h2>
 <p align="left">
