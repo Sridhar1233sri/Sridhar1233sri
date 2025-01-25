@@ -49,4 +49,3 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar1233sri&" alt="sridhar1233sri" /></p>
