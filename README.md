@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Python, Gen AI, LLM, Flask, JavaScript**
+- 💬 Ask me about **Python, Gen AI, LLM**
 
 - 📫 How to reach me: **sridhars.22aid@kongu.edu**
 
