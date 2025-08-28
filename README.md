@@ -29,7 +29,7 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,mongodb,postman" alt="Bootstrap, Node.js, Express.js, MongoDB, Postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,mongodb,postman" alt="Bootstrap, Node.js, Express.js, MYSQL" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" />
     <img src="https://skillicons.dev/icons?i=selenium,sklearn" alt="Selenium, Scikit-learn" />
